@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/aries"]
+	path = wp-content/themes/aries
+	url = git@github.com:aries-ck/wptheme-aries.git
